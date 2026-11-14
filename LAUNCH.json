@@ -1,1 +1,9 @@
-{"status":"NOT_LAUNCHED","mint":null,"signature":null,"note":"Placeholder: wallet unfunded (0 SOL). Filled after a real on-chain launch."}
+{
+  "mint": "8jWkuD4bFVMcdmwrM7BPR48f8uXVprUnrXRsjremaY1A",
+  "create_signature": "2BUHWQpQZGbZQeUjXESQeSmgAMQXBKSGApbA3Yn976fQ61QbLge8RpGB9fJh8aqkm374Lzg4NCdEbkv6A3WcTYhz",
+  "name": "MakeFun Ghost",
+  "symbol": "GHOST",
+  "metadataUri": "https://raw.githubusercontent.com/liddpzz-ops/makefun-coin-launch-01/main/metadata.json",
+  "feeLamports": "5010000",
+  "createdAt": "2026-11-14T06:18:17.970Z"
+}
