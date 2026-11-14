@@ -42,7 +42,7 @@ CreateV2 tx: mint rent 2,722,880 + bonding-curve ATA rent 1,513,840 =
 Funding gate: **0.01 SOL**.
 
 ## Status
-**NOT LAUNCHED** — Wallet `7CJfzRKxYiWiurqNMA5QVkq7z2fce35x4K1DWKhtx68E` has 0 SOL.
+**NOT LAUNCHED** — Wallet `9164mc5uE5tuT4rNRh9AVGskc6CJiSbKLsmsU4x7mEVj` has 0 SOL.
 Needs ~0.01 SOL funding before a real launch.
 
 ## Caveats

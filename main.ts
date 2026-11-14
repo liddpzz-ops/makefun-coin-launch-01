@@ -31,7 +31,7 @@ const ASSOCIATED_TOKEN_PROGRAM = 'ATokenGPvbdGVxr1b2hvZbsiqW5xWH25efTNsLJA8knL';
 const SYSTEM_PROGRAM = '11111111111111111111111111111111';
 
 // Public key the launcher must own (verified at runtime against the keypair).
-const EXPECTED_PUBKEY = '7CJfzRKxYiWiurqNMA5QVkq7z2fce35x4K1DWKhtx68E';
+const EXPECTED_PUBKEY = '9164mc5uE5tuT4rNRh9AVGskc6CJiSbKLsmsU4x7mEVj';
 const PRESS_KIT_URL = 'https://make.fun/press/make-fun-press-kit.zip';
 const IPFS_UPLOAD_URL = 'https://pump.fun/api/ipfs';
 const DEFAULT_RPC = 'https://api.mainnet-beta.solana.com';
