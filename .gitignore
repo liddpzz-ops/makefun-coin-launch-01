@@ -1,0 +1,12 @@
+# Keypairs & secrets
+*keypair*.json
+*.key
+.env
+.env*
+
+# Deps / build
+node_modules/
+dist/
+
+# Runtime assets
+ghost.png
